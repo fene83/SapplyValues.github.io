@@ -1,4 +1,5 @@
 questions =  [
+    <!-- Right-Left  -->
     {"id": 0, "question": "Freedom of business is the best practical way a society can prosper.", "effects": {"right": 1}},
     {"id": 1, "question": "Charity is a better way of helping those in need than social welfare.", "effects": {"right": 1}},
     {"id": 2, "question": "Wages are always fair, as employers know best what a worker's labour is worth.", "effects": {"right": 1}},
@@ -14,6 +15,7 @@ questions =  [
     {"id": 12, "question": "All industry and the bank should be nationalised.", "effects": {"right": -1}},
     {"id": 13, "question": "Class is the primary division of society.", "effects": {"right": -1}},
     {"id": 14, "question": "Economic inequality is too high in the world.", "effects": {"right": -1}},
+    <!-- Auth-Lib  -->
     {"id": 15, "question": "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.", "effects": {"auth": 1}},
     {"id": 16, "question": "Authority figures, if morally correct, are a good thing for society.", "effects": {"auth": 1}},
     {"id": 17, "question": "Strength is necessary for any government to succeed.", "effects": {"auth": 1}},
@@ -29,6 +31,7 @@ questions =  [
     {"id": 27, "question": "The government should, at most, provide emergency services and law enforcement.", "effects": {"auth": -1}},
     {"id": 28, "question": "The police was not made to protect the people, but to uphold the status-quo by force.", "effects": {"auth": -1}},
     {"id": 29, "question": "State schools are a bad idea because our state shouldn't be influencing our children.", "effects": {"auth": -1}},
+        <!-- Conservative-Progressive  -->
     {"id": 30, "question": "Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.", "effects": {"prog": 1}},
     {"id": 31, "question": "An individual's body is their own property, and they should be able to do anything they desire to it.", "effects": {"prog": 1}},
     {"id": 32, "question": "A person should be able to worship whomever or whatever they want.", "effects": {"prog": 1}},
